@@ -5,7 +5,7 @@ I'm a Senior 3 student from Hangzhou, Zhejiang, China, soon to take the college 
 🛠️ Tech Stack
  
 - AI Coding & LLMs: Gemini, ChatGPT, Claude, DeepSeek, Qwen
-- Development Tools: Google AI Studio, ByteDance Trae (Domestic Version) [Solo Mode]
+- Development Tools: Google AI Studio, Trae CN Solo
 - Development Paradigm: Low-Code / No-Code (Vibe Coding)
 - Current Exploration: Web Development on My NAS Server
  
