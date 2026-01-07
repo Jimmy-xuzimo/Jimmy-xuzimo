@@ -1,6 +1,6 @@
 👋 About Me
  
-I'm a Senior 3 student from Hangzhou, Zhejiang, China, soon to take the college entrance examination (Gaokao). Once a complete programming novice with zero prior experience, I stepped into the world of AI coding and Vibe Coding in 2025 — and I’ve been hooked ever since!
+I'm a Senior 3 student from Hangzhou, Zhejiang, China, soon to take the college entrance examination (Gaokao). Once a complete programming novice with zero prior experience, I stepped into the world of  Vibe Coding in 2025 — and I’ve been hooked ever since!
  
 🛠️ Tech Stack
  
