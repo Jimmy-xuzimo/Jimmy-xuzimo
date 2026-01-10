@@ -6,8 +6,7 @@ I'm a Senior 3 student from Hangzhou, Zhejiang, China, soon to take the college 
  
 - AI Coding & LLMs: Gemini, ChatGPT, Claude, DeepSeek, Qwen
 - Development Tools: Google AI Studio, Trae CN Solo
-- Development Paradigm: Low-Code / No-Code (Vibe Coding)
-- Current Exploration: Web Development on My NAS Server
+- Current Exploration: Web Development on My Server
  
 🚀 What I Do
  
