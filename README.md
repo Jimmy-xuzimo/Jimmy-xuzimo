@@ -26,17 +26,5 @@ Feel free to reach out for questions, collaborations, or just to connect:
 - Email 2: xuzimojimmy@gmail.com
 
 <p align="center">
-  <img src="https://github-readme-stats-za3q.vercel.app/api?username=Jimmy-xuzimo&show_icons=true&theme=default&rank_icon=github" alt="Jimmy's GitHub Stats" />
-  <img src="https://github-readme-stats-za3q.vercel.app/api/top-langs/?username=Jimmy-xuzimo&layout=compact&theme=default" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jimmy-xuzimo&theme=default" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jimmy-xuzimo&theme=github" alt="Profile Details" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jimmy-xuzimo&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jimmy-xuzimo&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jimmy-xuzimo&theme=github" />
+  <img src="https://github-readme-stats-za3q.vercel.app/api?username=Jimmy-xuzimo&show_icons=true&theme=dark&rank_icon=github" alt="Jimmy's GitHub Stats" />
 </p>
