@@ -24,3 +24,5 @@ Feel free to reach out for questions, collaborations, or just to connect:
  
 - Email 1: xuzimojimmy@163.com
 - Email 2: xuzimojimmy@gmail.com
+
+[![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-xuzimo)](https://github.com/anuraghazra/github-readme-stats)
