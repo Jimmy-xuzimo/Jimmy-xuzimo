@@ -1,12 +1,12 @@
 👋 About Me
  
-I'm a Developer at OpenClaw(, an open-source AI Agent platform with 200k+ stars that enables multi-chat application integration. I'm also a Senior 3 student from Hangzhou, Zhejiang, China, soon to take the college entrance examination.
+I'm a Developer at [OpenClaw](https://github.com/openclaw/openclaw), an open-source AI Agent platform with 200k+ stars that enables multi-chat application integration. I'm also a Senior 3 student from Hangzhou, Zhejiang, China, soon to take the college entrance examination.
  
 🛠️ Tech Stack
  
 - AI Coding & LLMs: Gemini, ChatGPT, Claude, Qwen，Kimi
 - Development Tools: Google AI Studio, Trae, Cursor
-- Current Exploration: Web Development on My Server, OpenClaw
+- Current Exploration: Web Development on My Server, [OpenClaw](https://github.com/openclaw/openclaw)
  
 🚀 What I Do
  
