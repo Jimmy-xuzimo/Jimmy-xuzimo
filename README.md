@@ -1,16 +1,16 @@
 👋 About Me
  
-I'm a Senior 3 student from Hangzhou, Zhejiang, China, soon to take the college entrance examination. Once a complete programming novice with zero prior experience, I stepped into the world of  Vibe Coding in 2025 — and I’ve been hooked ever since!
+I'm a Developer at OpenClaw, an open-source AI Agent platform with 200k+ stars that enables multi-chat application integration. I'm also a Senior 3 student from Hangzhou, Zhejiang, China, soon to take the college entrance examination.
  
 🛠️ Tech Stack
  
-- AI Coding & LLMs: Gemini, ChatGPT, Claude, DeepSeek, Qwen
-- Development Tools: Google AI Studio, Trae CN Solo
-- Current Exploration: Web Development on My Server
+- AI Coding & LLMs: Gemini, ChatGPT, Claude, Qwen，Kimi
+- Development Tools: Google AI Studio, Trae, Cursor
+- Current Exploration: Web Development on My Server, OpenClaw
  
 🚀 What I Do
  
-Nearly all my projects are built through low-code/no-code development via Vibe Coding — an efficient and innovative paradigm I firmly believe will become mainstream. I’m passionate about creating practical, fun small tools and software to share with the community. Recently, I’ve been diving deep into web development on my personal NAS server, exploring how to build and deploy web apps in a self-hosted environment.
+Nearly all my projects are built through low-code development via Vibe Coding — an efficient and innovative paradigm I firmly believe will become mainstream. I’m passionate about creating practical, fun small tools and software to share with the community. Recently, I’ve been diving deep into web development on my personal NAS server, exploring how to build and deploy web apps in a self-hosted environment.
  
 I’m actively expanding my programming fundamentals while continuing to hone my Vibe Coding skills. My goal is to keep sharing useful projects and growing alongside fellow developers!
  
