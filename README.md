@@ -24,6 +24,7 @@ Feel free to reach out for questions, collaborations, or just to connect:
  
 - Email 1: xuzimojimmy@163.com
 - Email 2: xuzimojimmy@gmail.com
+- My personal website:https://about-me-one-plum.vercel.app/  https://www.xuzimo.top/
 
 <p align="left">
   <img src="https://github-readme-stats-za3q.vercel.app/api?username=Jimmy-xuzimo&show_icons=true&theme=tokyonight&rank_icon=github" alt="Jimmy's GitHub Stats" />
