@@ -22,8 +22,7 @@ I'm actively expanding my programming fundamentals while continuing to hone my V
  
 Feel free to reach out for questions, collaborations, or just to connect:
  
-- Email 1: xuzimojimmy@163.com
-- Email 2: xuzimojimmy@gmail.com
+- Email: xuzimojimmy@163.com
 - https://about-me-one-plum.vercel.app/
 - https://www.xuzimo.top/
 
