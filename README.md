@@ -1,6 +1,6 @@
 👋 About Me
  
-I'm a Developer at [OpenClaw](https://github.com/openclaw/openclaw), an open-source AI Agent platform with 200k+ stars that enables multi-chat application integration. I'm also a Senior 3 student from Hangzhou, Zhejiang, China, soon to take the college entrance examination.
+I'm a Developer at [OpenClaw](https://github.com/openclaw/openclaw), an open-source AI Agent platform with 200k+ stars that enables multi-chat application integration. I'm also a freshman at CUCN (Communication University of China, Nanjing), and I'm from Hangzhou, Zhejiang, China.
  
 🛠️ Tech Stack
  
