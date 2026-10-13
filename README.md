@@ -1,4 +1,4 @@
-<img width="2754" height="1476" alt="image" src="https://github.com/user-attachments/assets/bd413528-dbd1-436f-b367-dc2c6f7e677b" />👋 About Me
+👋 About Me
  
 I'm a Developer at [OpenClaw](https://github.com/openclaw/openclaw), an open-source AI Agent platform with 200k+ stars that enables multi-chat application integration. I'm also a freshman at CUCN (Communication University of China, Nanjing), and I'm from Hangzhou, Zhejiang, China.
  
