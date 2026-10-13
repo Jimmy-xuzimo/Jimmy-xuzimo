@@ -1,4 +1,4 @@
-👋 About Me
+<img width="2754" height="1476" alt="image" src="https://github.com/user-attachments/assets/bd413528-dbd1-436f-b367-dc2c6f7e677b" />👋 About Me
  
 I'm a Developer at [OpenClaw](https://github.com/openclaw/openclaw), an open-source AI Agent platform with 200k+ stars that enables multi-chat application integration. I'm also a freshman at CUCN (Communication University of China, Nanjing), and I'm from Hangzhou, Zhejiang, China.
  
@@ -23,4 +23,4 @@ I'm actively expanding my programming fundamentals while continuing to hone my V
 Feel free to reach out for questions, collaborations, or just to connect:
  
 - Email: xuzimojimmy@163.com
-- https://about-me-one-plum.vercel.app/
+- https://jimmy-xuzimo.github.io/about-me/
