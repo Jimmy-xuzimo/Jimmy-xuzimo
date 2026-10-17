@@ -4,9 +4,6 @@
 
 <p align="center"><samp>AI-assisted development · Full-stack projects · Open source</samp></p>
 
-<p align="center"><samp>✨ Small tools. Big curiosity. One commit at a time.</samp></p>
-
----
 
 ## 👋 About Me
 
