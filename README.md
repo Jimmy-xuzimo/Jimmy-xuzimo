@@ -1,29 +1,66 @@
-<p align="center">
-  <img src="assets/meteor-code.gif" alt="Orange and blue meteors crossing a quiet night sky" width="640">
-</p>
+![Orange and blue meteors crossing a quiet night sky](assets/meteor-code.gif)
 
-<h1 align="center">Zimo Xu</h1>
+<h1 align="center">Hi, I'm Zimo Xu</h1>
 
-<p align="center">AI-assisted development · Practical tools · Open source</p>
+<p align="center"><samp>AI-assisted development · Full-stack projects · Open source</samp></p>
 
-<p align="center">
-  <a href="https://jimmy-xuzimo.github.io/about-me/">Website</a> ·
-  <a href="https://portfolio-2026-five-blond-35.vercel.app/">Photography &amp; films</a> ·
-  <a href="mailto:xuzimojimmy@163.com">Email</a>
-</p>
+## About Me
 
-I'm a first-year student at **Communication University of Nanjing**, from Hangzhou, China. I build practical software with AI and contribute to [OpenClaw](https://github.com/openclaw/openclaw).
+I'm a developer and **OpenClaw contributor** from **Hangzhou, China**, currently a first-year undergraduate at **Communication University of Nanjing (CUCN)**.
 
-My projects start with everyday needs: saving a video, checking a server, or sharing my work. I take them from an idea to a working app, learning through iteration, testing, and open-source collaboration.
+I started exploring **Vibe Coding** in 2025. I enjoy turning everyday needs into practical applications, taking projects from an idea through implementation and deployment while strengthening my programming fundamentals.
 
-## Selected projects
+## What I Build
 
-- **[Vidown](https://github.com/Jimmy-xuzimo/vidown)** — A cross-platform video downloader with a built-in browser, media discovery, and downloads that preserve the source quality.
-- **[Chronos Monitoring](https://github.com/Jimmy-xuzimo/Chronos-Monitoring)** — A Python dashboard for real-time Linux and NAS hardware and network metrics.
-- **[Personal website](https://github.com/Jimmy-xuzimo/about-me)** — A responsive portfolio with English/Chinese content, light and dark themes, and photography and film archives.
+My work spans web applications, desktop tools, monitoring dashboards, and AI-powered workflows. I use natural language to explore ideas, then refine the results through iteration and hands-on testing.
 
-## Toolkit
+I'm especially interested in **AI agents and practical software**. I run OpenClaw on my local PC and server to explore how assistants can automate tasks and support everyday development.
 
-**Web** · TypeScript, React, Vite, Tailwind CSS, Node.js<br>
-**Backend** · Python, Flask<br>
-**AI workflow** · Codex, Claude Desktop, OpenCode
+## Open-Source Contributions
+
+### [OpenClaw](https://github.com/openclaw/openclaw)
+
+I contribute to feature development in OpenClaw, an open-source personal AI assistant that runs locally and connects to multiple messaging platforms.
+
+Contributing helps me learn through collaboration and understand a larger codebase, with a focus on application integrations and workflow automation.
+
+## Selected Projects
+
+### [Vidown](https://github.com/Jimmy-xuzimo/vidown)
+
+A **cross-platform local video downloader** with a built-in browser for signing in and discovering media. It supports separate video and audio track selection and saving media in its original quality.
+
+### [Chronos-Monitoring](https://github.com/Jimmy-xuzimo/Chronos-Monitoring)
+
+A **Python-based monitoring dashboard** for Linux and NAS servers, displaying real-time hardware and network metrics with an industrial sci-fi visual style.
+
+### [about-me](https://github.com/Jimmy-xuzimo/about-me)
+
+A responsive personal website built with **HTML, CSS, and JavaScript**, featuring English/Chinese content, light/dark themes, and photography and film archives. Hosted on **GitHub Pages** with automatic publishing from the main branch.
+
+## Tools & Technologies
+
+- **Web Development:** TypeScript, React, Vite, Tailwind CSS, Node.js
+- **Python & Backend:** Python, Flask
+- **AI & LLMs:** ChatGPT, Claude, DeepSeek, Kimi
+- **Development Tools:** Codex, Claude Desktop, OpenCode
+
+## What I'm Exploring
+
+I'm developing my skills in full-stack development, AI-agent integration, and deployment. I want to keep shipping useful projects, better understand the code behind them, and contribute to the communities I learn from.
+
+---
+
+## Language Statistics
+
+![Language statistics across my public original repositories](assets/languages.svg)
+
+<sub>Code bytes in public, non-fork repositories. Snapshot: October 13, 2026; not a measure of proficiency or contribution count.</sub>
+
+## Let's Connect
+
+Happy to chat about AI workflows, useful tools, and open-source collaboration.
+
+**Email:** [xuzimojimmy@163.com](mailto:xuzimojimmy@163.com)
+
+**[Explore my personal website →](https://jimmy-xuzimo.github.io/about-me/)**
