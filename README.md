@@ -20,11 +20,17 @@ I'm especially interested in **AI agents and practical software**. I run OpenCla
 
 ### [OpenClaw](https://github.com/openclaw/openclaw)
 
-I contribute to feature development in OpenClaw, an open-source personal AI assistant that runs locally and connects to multiple messaging platforms.
+I contribute bug fixes to OpenClaw, an open-source personal AI assistant that runs locally and connects to multiple messaging platforms.
 
 Contributing helps me learn through collaboration and understand a larger codebase, with a focus on application integrations and workflow automation.
 
 ## Selected Projects
+
+### [OpenClaw](https://github.com/openclaw/openclaw) · Contributor
+
+My merged contribution, **[PR #27710](https://github.com/openclaw/openclaw/pull/27710)**, fixes head-of-line blocking during delivery-queue recovery. Previously, one message with a long retry delay could prevent later messages from being retried. I changed the recovery loop to skip that entry and continue processing the rest, and updated the test to verify the behavior.
+
+[Browse my OpenClaw pull requests](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3AJimmy-xuzimo)
 
 ### [Vidown](https://github.com/Jimmy-xuzimo/vidown)
 
@@ -37,13 +43,6 @@ A **Python-based monitoring dashboard** for Linux and NAS servers, displaying re
 ### [about-me](https://github.com/Jimmy-xuzimo/about-me)
 
 A responsive personal website built with **HTML, CSS, and JavaScript**, featuring English/Chinese content, light/dark themes, and photography and film archives. Hosted on **GitHub Pages** with automatic publishing from the main branch.
-
-## Tools & Technologies
-
-- **Web Development:** TypeScript, React, Vite, Tailwind CSS, Node.js
-- **Python & Backend:** Python, Flask
-- **AI & LLMs:** ChatGPT, Claude, DeepSeek, Kimi
-- **Development Tools:** Codex, Claude Desktop, OpenCode
 
 ## What I'm Exploring
 
