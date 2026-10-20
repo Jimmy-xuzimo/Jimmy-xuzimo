@@ -48,14 +48,6 @@ A responsive personal website built with **HTML, CSS, and JavaScript**, featurin
 
 I'm developing my skills in full-stack development, AI-agent integration, and deployment. I want to keep shipping useful projects, better understand the code behind them, and contribute to the communities I learn from.
 
----
-
-## Language Statistics
-
-![Language statistics across my public original repositories](assets/languages.svg)
-
-<sub>Code bytes in public, non-fork repositories. Snapshot: October 13, 2026; not a measure of proficiency or contribution count.</sub>
-
 ## Let's Connect
 
 Happy to chat about AI workflows, useful tools, and open-source collaboration.
