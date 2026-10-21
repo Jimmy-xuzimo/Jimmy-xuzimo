@@ -30,8 +30,6 @@ Contributing helps me learn through collaboration and understand a larger codeba
 
 My merged contribution, **[PR #27710](https://github.com/openclaw/openclaw/pull/27710)**, fixes head-of-line blocking during delivery-queue recovery. Previously, one message with a long retry delay could prevent later messages from being retried. I changed the recovery loop to skip that entry and continue processing the rest, and updated the test to verify the behavior.
 
-[Browse my OpenClaw pull requests](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3AJimmy-xuzimo)
-
 ### [Vidown](https://github.com/Jimmy-xuzimo/vidown)
 
 A **cross-platform local video downloader** with a built-in browser for signing in and discovering media. It supports separate video and audio track selection and saving media in its original quality.
