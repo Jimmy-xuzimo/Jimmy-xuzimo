@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=20232a" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=flat&amp;logo=css&amp;logoColor=white" alt="CSS" />
+</p>
+
 ![Orange and blue meteors crossing a quiet night sky](assets/meteor-code.gif)
 
 <h1 align="center">Hi, I'm Zimo Xu</h1>
@@ -38,31 +47,21 @@ My delivery-queue contribution, **[PR #27710](https://github.com/openclaw/opencl
 
 ### [Vidown](https://github.com/Jimmy-xuzimo/vidown)
 
-[![GitHub stars](https://img.shields.io/github/stars/Jimmy-xuzimo/vidown?style=flat&label=Stars&color=e3b341)](https://github.com/Jimmy-xuzimo/vidown/stargazers)
-
 A **cross-platform local video downloader** with a built-in browser for signing in and discovering media. It supports separate video and audio track selection and saving media in its original quality.
 
 ### [Ciyu · Vocabulary Learning](https://github.com/Jimmy-xuzimo/ciyu-vocab)
-
-[![GitHub stars](https://img.shields.io/github/stars/Jimmy-xuzimo/ciyu-vocab?style=flat&label=Stars&color=e3b341)](https://github.com/Jimmy-xuzimo/ciyu-vocab/stargazers)
 
 A vocabulary-learning app for **web, Windows, and Android**, with eight word books, daily quizzes, spaced review, and progress import/export. The web app supports offline use as a PWA; learning records stay on the device.
 
 ### [Chronos-Monitoring](https://github.com/Jimmy-xuzimo/Chronos-Monitoring)
 
-[![GitHub stars](https://img.shields.io/github/stars/Jimmy-xuzimo/Chronos-Monitoring?style=flat&label=Stars&color=e3b341)](https://github.com/Jimmy-xuzimo/Chronos-Monitoring/stargazers)
-
 A **Python-based monitoring dashboard** for Linux and NAS servers, displaying real-time hardware and network metrics with an industrial sci-fi visual style.
 
 ### [about-me](https://github.com/Jimmy-xuzimo/about-me)
 
-[![GitHub stars](https://img.shields.io/github/stars/Jimmy-xuzimo/about-me?style=flat&label=Stars&color=e3b341)](https://github.com/Jimmy-xuzimo/about-me/stargazers)
-
 A responsive personal website built with **HTML, CSS, and JavaScript**, featuring English/Chinese content, light/dark themes, and photography and film archives. Hosted on **GitHub Pages** with automatic publishing from the main branch.
 
 ### [Memory Book · Animated MV](https://github.com/Jimmy-xuzimo/memory-book-dj-mv)
-
-[![GitHub stars](https://img.shields.io/github/stars/Jimmy-xuzimo/memory-book-dj-mv?style=flat&label=Stars&color=e3b341)](https://github.com/Jimmy-xuzimo/memory-book-dj-mv/stargazers)
 
 A hand-drawn-style music video built with **Remotion**, combining character animation, handwritten lyrics, and continuous scene transitions. The repository contains the animation source and documents original work and third-party material rights.
 
@@ -77,3 +76,17 @@ Happy to chat about AI workflows, useful tools, and open-source collaboration.
 **Email:** [xuzimojimmy@163.com](mailto:xuzimojimmy@163.com)
 
 **[Explore my personal website →](https://jimmy-xuzimo.github.io/about-me/)**
+
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Jimmy-xuzimo?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
+      <img src="assets/stats-light.svg" alt="Zimo Xu's GitHub stats: stars received, commits this year, pull requests, issues, and repositories contributed to" width="495" />
+    </picture>
+  </a>
+</p>
+
+<p align="center"><sub>Public GitHub activity · Commits for the current year · Updated daily with <a href="https://github.com/stats-organization/github-readme-stats-action">GitHub Readme Stats Action</a></sub></p>
