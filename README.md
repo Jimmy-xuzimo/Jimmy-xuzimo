@@ -84,9 +84,9 @@ Happy to chat about AI workflows, useful tools, and open-source collaboration.
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
-      <img src="assets/stats-light.svg" alt="Zimo Xu's GitHub stats: stars received, commits this year, pull requests, issues, and repositories contributed to" width="495" />
+      <img src="assets/stats-light.svg" alt="Zimo Xu's GitHub stats: stars received, commits over the past year, pull requests, issues, and repositories contributed to" width="495" />
     </picture>
   </a>
 </p>
 
-<p align="center"><sub>Public GitHub activity · Commits for the current year · Updated daily with <a href="https://github.com/stats-organization/github-readme-stats-action">GitHub Readme Stats Action</a></sub></p>
+<p align="center"><sub>Public GitHub activity · Commits over the past year · Updated daily with <a href="https://github.com/stats-organization/github-readme-stats-action">GitHub Readme Stats Action</a></sub></p>
