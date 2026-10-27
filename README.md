@@ -37,21 +37,21 @@ Merged PR: [#8](https://github.com/abdullaabdullazade/freedrive/pull/8)
 
 ## Selected Projects
 
-### [Vidown](https://github.com/Jimmy-xuzimo/vidown)
+### [vidown](https://github.com/Jimmy-xuzimo/vidown)
 
 A **cross-platform local video downloader** with a built-in browser for signing in and discovering media. It supports separate video and audio track selection and saving media in its original quality.
 
-### [Ciyu · Vocabulary Learning](https://github.com/Jimmy-xuzimo/ciyu-vocab)
+### [DSH-for-Android](https://github.com/Jimmy-xuzimo/DSH-for-Android)
+
+DeepSeek Harness on **Android**, with native Material 3 navigation and settings, an on-device Bionic runtime, and integrated Git, Bash, and PTY support.
+
+### [ciyu-vocab](https://github.com/Jimmy-xuzimo/ciyu-vocab)
 
 A vocabulary-learning app for **web, Windows, and Android**, with eight word books, daily quizzes, spaced review, and progress import/export. The web app supports offline use as a PWA; learning records stay on the device.
 
 ### [Chronos-Monitoring](https://github.com/Jimmy-xuzimo/Chronos-Monitoring)
 
 A **Python-based monitoring dashboard** for Linux and NAS servers, displaying real-time hardware and network metrics with an industrial sci-fi visual style.
-
-### [about-me](https://github.com/Jimmy-xuzimo/about-me)
-
-A responsive personal website built with **HTML, CSS, and JavaScript**, featuring English/Chinese content, light/dark themes, and photography and film archives. Hosted on **GitHub Pages** with automatic publishing from the main branch.
 
 ## What I'm Exploring
 
