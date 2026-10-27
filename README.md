@@ -27,23 +27,15 @@ I'm especially interested in **AI agents and practical software**. I run OpenCla
 
 ## Open-Source Contributions
 
-### [OpenClaw](https://github.com/openclaw/openclaw)
-
-I contribute bug fixes to OpenClaw, an open-source personal AI assistant that runs locally and connects to multiple messaging platforms.
-
-My merged fixes include [delivery-queue recovery (#27710)](https://github.com/openclaw/openclaw/pull/27710) and [hidden-text filtering in web fetch (#181785)](https://github.com/openclaw/openclaw/pull/181785). The latter excludes text hidden by zero-scale CSS transforms while preserving visible article content.
-
-### [FreeDrive](https://github.com/abdullaabdullazade/freedrive)
-
-Added **Simplified Chinese localization** for the web interface and admin panel in merged [PR #8](https://github.com/abdullaabdullazade/freedrive/pull/8), covering file management, sharing, settings, and built-in viewers.
-
-## Selected Projects
-
 ### [OpenClaw](https://github.com/openclaw/openclaw) · Contributor
 
-My delivery-queue contribution, **[PR #27710](https://github.com/openclaw/openclaw/pull/27710)**, fixes head-of-line blocking during delivery-queue recovery. Previously, one message with a long retry delay could prevent later messages from being retried. I changed the recovery loop to skip that entry and continue processing the rest, and updated the test to verify the behavior.
+Merged PRs: [#27710](https://github.com/openclaw/openclaw/pull/27710) · [#181785](https://github.com/openclaw/openclaw/pull/181785) · [#181773](https://github.com/openclaw/openclaw/pull/181773) · [#181831](https://github.com/openclaw/openclaw/pull/181831) · [#182232](https://github.com/openclaw/openclaw/pull/182232) · [#182243](https://github.com/openclaw/openclaw/pull/182243)
 
-[Browse my OpenClaw pull requests →](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3AJimmy-xuzimo)
+### [FreeDrive](https://github.com/abdullaabdullazade/freedrive) · Contributor
+
+Merged PR: [#8](https://github.com/abdullaabdullazade/freedrive/pull/8)
+
+## Selected Projects
 
 ### [Vidown](https://github.com/Jimmy-xuzimo/vidown)
 
@@ -60,10 +52,6 @@ A **Python-based monitoring dashboard** for Linux and NAS servers, displaying re
 ### [about-me](https://github.com/Jimmy-xuzimo/about-me)
 
 A responsive personal website built with **HTML, CSS, and JavaScript**, featuring English/Chinese content, light/dark themes, and photography and film archives. Hosted on **GitHub Pages** with automatic publishing from the main branch.
-
-### [Memory Book · Animated MV](https://github.com/Jimmy-xuzimo/memory-book-dj-mv)
-
-A hand-drawn-style music video built with **Remotion**, combining character animation, handwritten lyrics, and continuous scene transitions. The repository contains the animation source and documents original work and third-party material rights.
 
 ## What I'm Exploring
 
