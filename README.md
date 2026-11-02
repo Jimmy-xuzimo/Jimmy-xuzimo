@@ -41,13 +41,17 @@ Merged PR: [#8](https://github.com/abdullaabdullazade/freedrive/pull/8)
 
 A **cross-platform local video downloader** with a built-in browser for signing in and discovering media. It supports separate video and audio track selection and saving media in its original quality.
 
+### [ciyu-vocab](https://github.com/Jimmy-xuzimo/ciyu-vocab)
+
+A vocabulary-learning app for **web, Windows, and Android**, with eight word books, daily quizzes, spaced review, and progress import/export. The web app supports offline use as a PWA; learning records stay on the device.
+
 ### [DSH-for-Android](https://github.com/Jimmy-xuzimo/DSH-for-Android)
 
 DeepSeek Harness on **Android**, with native Material 3 navigation and settings, an on-device Bionic runtime, and integrated Git, Bash, and PTY support.
 
-### [ciyu-vocab](https://github.com/Jimmy-xuzimo/ciyu-vocab)
+### [PianoScoreFollower](https://github.com/Jimmy-xuzimo/PianoScoreFollower)
 
-A vocabulary-learning app for **web, Windows, and Android**, with eight word books, daily quizzes, spaced review, and progress import/export. The web app supports offline use as a PWA; learning records stay on the device.
+An **Android piano score app** with score import, real-time score following, and automatic page turning.
 
 ### [Chronos-Monitoring](https://github.com/Jimmy-xuzimo/Chronos-Monitoring)
 
