@@ -53,9 +53,17 @@ DeepSeek Harness on **Android**, with native Material 3 navigation and settings,
 
 An **Android piano score app** with score import, real-time score following, and automatic page turning.
 
-### [Chronos-Monitoring](https://github.com/Jimmy-xuzimo/Chronos-Monitoring)
+### Chronos Ecosystem
 
-A **Python-based monitoring dashboard** for Linux and NAS servers, displaying real-time hardware and network metrics with an industrial sci-fi visual style.
+A **self-hosted personal workspace** connecting calendars, device monitoring, and desktop widgets. The three projects work together, with Agents also usable independently.
+
+| Project | What it does |
+| --- | --- |
+| [Chronos Monitoring](https://github.com/Jimmy-xuzimo/Chronos-Monitoring) | Web workspace and native Android client for ICS calendars, cloud/NAS/desktop metrics, website certificates, GitHub activity, news, and bookmarks. |
+| [Chronos Agents](https://github.com/Jimmy-xuzimo/Chronos-Agents) | Device telemetry for Windows, Linux, macOS, and Android, with authenticated agents, a self-hosted Hub, and Monitoring integration. |
+| [Chronos Widgets](https://github.com/Jimmy-xuzimo/Chronos-Widgets) | Native Windows desktop widgets connected to Monitoring, bringing timetables, devices, certificates, and daily information onto the desktop. |
+
+[Workspace demo](https://jimmy-xuzimo.github.io/Chronos-Monitoring/demo/) · [Monitoring](https://jimmy-xuzimo.github.io/Chronos-Monitoring/) · [Agents](https://jimmy-xuzimo.github.io/Chronos-Agents/) · [Widgets](https://jimmy-xuzimo.github.io/Chronos-Widgets/)
 
 ## What I'm Exploring
 
@@ -69,16 +77,12 @@ Happy to chat about AI workflows, useful tools, and open-source collaboration.
 
 **[Explore my personal website →](https://jimmy-xuzimo.github.io/about-me/)**
 
-## GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/Jimmy-xuzimo?tab=overview">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
-      <img src="assets/stats-light.svg" alt="Zimo Xu's GitHub stats: stars received, commits over the past year, pull requests, issues, and repositories contributed to" width="495" />
-    </picture>
-  </a>
-</p>
+**[Explore my interactive GitHub activity archive →](https://jimmy-xuzimo.github.io/activity/)**
 
-<p align="center"><sub>Public GitHub activity · Commits over the past year · Updated daily with <a href="https://github.com/stats-organization/github-readme-stats-action">GitHub Readme Stats Action</a></sub></p>
+A chronological view of my work, with a **zoomable timeline**, contribution heatmap, activity patterns, and repository details. The interface supports English and Chinese, light and dark themes, and responsive layouts.
+
+Data syncs every 12 hours. Commit statistics cover default branches of my own repositories; private-project activity is anonymized. Star-user lists are not collected.
+
+[View source and data methodology](https://github.com/Jimmy-xuzimo/activity)
